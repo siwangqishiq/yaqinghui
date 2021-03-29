@@ -1,0 +1,110 @@
+<resources>
+    <string name="app_name">AYG trợ lý</string>
+    <string name="left_menu_setting">Cài đặt</string>
+    <string name="login_title">Đăng nhập</string>
+    <string name="login_hint_username">Mời nhập ID vận động viên</string>
+    <string name="login_hint_pwd">Mời nhập 6 chữ số cuối của Hộ chiếu</string>
+    <string name="login_dologin">Đăng nhập</string>
+    <string name="login_name">Tài khoản</string>
+    <string name="login_pwd">Mật khẩu</string>
+    <string name="name_or_pwd_isempty">Tên tài khoản hoặc mật khẩu trống</string>
+    <string name="pro_exit_cofirm">Nhấn một lần nữa để thoát khỏi</string>
+    <string name="login_failed">Đăng nhập thất bại</string>
+    <string name="menu_left_home">Trang chủ</string>
+    <string name="menu_left_schedule">Lịch trình cuộc thi đấu</string>
+    <string name="menu_left_equip">Tìm kiếm xung quanh</string>
+    <string name="notify">Thông báo</string>
+    <string name="activity">CEP của tôi</string>
+    <string name="delete">xóa</string>
+    <string name="net_exception">Mạng bất thường</string>
+    <string name="order_attend">sự chú ý</string>
+    <string name="sign_in">Đánh dấu</string>
+    <string name="dialog_title">nhắc</string>
+    <string name="dialog_msg">tải</string>
+    <string name="no_sd_card">Scan qr code</string>
+    <string name="islogining">tải</string>
+    <string name="opengps">Mời mở GPS</string>
+    <string name="sat">Sat</string>
+    <string name="mon">Mon</string>
+    <string name="tue">Tue</string>
+    <string name="wed">Wed</string>
+    <string name="thu">Thu</string>
+    <string name="fri">Fri</string>
+    <string name="sun">Sun</string>
+    <string name="badge">BADAGE</string>
+    <string name="base_information">Thông tin chính</string>
+    <string name="country">Quốc tịch</string>
+    <string name="gender">Giới tính</string>
+    <string name="attend_items">Cuộc thi đấu của tôi</string>
+    <string name="cep_video">Tra tìm băng tuyên truyền CEP</string>
+    <string name="schedule_my_project">Cuộc thi đấu của tôi</string>
+    <string name="schedule_other_project">Cuộc thi đấu khác</string>
+	<string name="make_socre">Đánh giá</string>
+	<string name="event_tips">Nhắc nhở công việc</string>
+	<string name="event_remind_text">Nhắc nhở trước %d phút</string>
+	<string name="dialy_remind">Nhắc nhở mỗi ngày</string>	
+	<string name="dialy_remind_text">Nhắc nhở lúc %s</string>
+	<string name="help">Trợ giúp</string>
+	<string name="upgrate_version">cập nhật phần mềm</string>
+	<string name="reset_password">Thay đổi mật khẩu</string>
+	<string name="login_out">Thoát ra</string>
+	<string name="change_thumb">Thay đổi avatar</string>
+	<string name="take_photo">Thu được từ chụp ảnh</string>
+	<string name="select_from_album">Thu được từ trong album</string>
+	<string name="confirm_thumb">Xác nhận sử dụng ảnh chân dung này?</string>
+	<string name="confirm">Xác nhận</string>
+	<string name="cancel">Hủy bỏ</string>
+	<string name="account_init_password">Mật khẩu ban đầu</string>
+	<string name="new_passwod">Mật khẩu mới</string>
+	<string name="new_confirm_password">Xác nhận mật khẩu mới</string>
+	<string name="schedule_item_tips">Nhắc nhở trước %d phút</string>
+	<string name="is_locating">có được vị trí</string>
+	<string name="upload_waiting">xác minh</string>
+	<string name="shake_tips">Lắc lắc để tìm kiếm những chương trình được giới thiệu </string>
+	<string name="push_title">Đăng tin</string>
+	<string name="scan">Chi tiết</string>
+	<string name="weibo_send">Send</string>
+	<string name="click_play">Tra tìm băng tuyên truyền CEP</string>
+	<string name="first_tips">Nhấn nút "Tra tìm/Thêm" là có thể tra tìm và thêm"Lịch trình cuộc thi đấu","Hoạt động CEP"</string>
+	<string name="score_title">Đánh giá bằng việc ấn vào hình ngôi sao</string>
+	<string name="submit">Gửi đánh giá</string>
+	<string name="loginout_success">thoát thành công</string>
+	<string name="delete_schdule">Xóa ảnh?</string>
+	<string name="signin_in_failed">Đánh dấu  không thành công, mời thử lại</string>
+	<string name="number">NO.</string>
+	<string name="watch_success">thành công</string>
+	<string name="watch_failed">thất bại</string>
+	<string name="get_medal">Huy hiệu nhận được</string>
+	<string name="OK">OK !</string>
+	<string name="cep_socre1">Đánh giá chung</string>
+	<string name="cep_socre2">Trình độ tổ chức</string>
+	<string name="cep_socre3">Thu hoạch của cá nhân</string>	
+	<string name="weibo01">I am participating in the "Youth Festival" (2nd Asian Youth Games).</string>
+	<string name="weibo02">I am participating in the "Asian Culture Village" (2nd Asian Youth Games).</string>
+	<string name="weibo03">I am participating in the "Global Issues" (2nd Asian Youth Games).</string>
+	<string name="weibo04">I am participating in the "Eco-friendly Agriculture" (2nd Asian Youth Games).</string>
+	<string name="weibo05">I am participating in the "Nanjing Historical and Cultural Sightseeing" (2nd Asian Youth Games).</string>
+	<string name="weibo_sending">Sending...</string>
+	<string name="weibo_secc">thành công</string>
+	<string name="weibo_err">thất bại</string>
+	<string name="alarm_title">Nhắc nhở</string>
+	<string name="update_no_need">Đã là phiên bản mới nhất!</string>
+	
+	<string-array name="time_before_array">
+	    <item>Nhắc nhở trước 30 phút</item>
+	    <item>Nhắc nhở trước 60 phút</item>
+	    <item>Nhắc nhở trước 120 phút</item>
+	</string-array>
+	<string-array name="time_daily_array">
+	    <item>6:30</item>
+	    <item>9:00</item>
+	    <item>12:00</item>
+	</string-array>
+	<string name="game_detail_info_empty">Trận đấu đã kết thúc</string>
+	<string name="empty_box_text">Hôm nay tạm thời không có nhiều hơn những công việc cần xem</string>
+	<string name="cancel_attention">Xóa ảnh?</string>
+	<string name="cep_menu_title">Hoạt động CEP</string>
+	<string name="cep_score_failed">Đánh giá thất bại, mời thử lại.</string>
+	<string name="change_error">thất bại</string>
+	<string name="help_center">thông tin</string>
+</resources>

@@ -1,0 +1,100 @@
+<resources>
+<string name="app_name">AYG مساعد</string>
+<string name="left_menu_setting">الإعدادات</string>
+<string name="login_title">دخول</string>
+<string name="login_hint_username">تفضل بإدخال رقم اللاعب </string>
+<string name="login_hint_pwd">تفضل بإدخال الستة أرقام من الآخر لجواز السفر </string>
+<string name="login_dologin">دخول</string>
+<string name="login_name">حساب</string>
+<string name="login_pwd">كلمة السر </string>
+<string name="name_or_pwd_isempty">اسم المستخدم أو كلمة المرور فارغة</string>
+<string name="pro_exit_cofirm">اضغط مرة أخرى للخروج</string>
+<string name="login_failed">فشل</string>
+<string name="menu_left_home">الصفحة الرئيسية</string>
+<string name="menu_left_schedule"> جدول السباق </string>
+<string name="menu_left_equip">البحث من المحيط</string>
+<string name="notify">الأخبار</string>
+<string name="activity">نشاCEPلي</string>
+<string name="delete">حذف</string>
+<string name="net_exception">الشبكة عاطلة </string>
+<string name="order_attend">اهتمام</string>
+<string name="sign_in">التسجيل</string>
+<string name="dialog_title">دفع</string>
+<string name="dialog_msg">تحميل</string>
+<string name="no_sd_card">لم يتم العثور علي بطاقة SD</string>
+<string name="islogining">تحميل</string>
+<string name="opengps">يرجي فتح GPS</string>
+<string name="sat">Sat</string>
+<string name="mon">Mon</string>
+<string name="tue">Tue</string>
+<string name="wed">Wed</string>
+<string name="thu">Thu</string>
+<string name="fri">Fri</string>
+<string name="sun">Sun</string>
+<string name="badge">BADAGE</string>
+<string name="base_information">المعلومات الأساسية</string>
+<string name="country">الجنسية</string>
+<string name="gender">الجنس </string>
+<string name="attend_items">سباقي</string>
+<string name="cep_video">دعاوةCEP </string>
+<string name="schedule_my_project">سباقي</string>
+<string name="schedule_other_project">السباقات الأخري</string>
+<string name="make_socre">إعطاء الدرجة</string>
+<string name="event_tips">أمور التنبيه</string>
+<string name="event_remind_text">تنبيه قبل %d دقيقة </string>
+<string name="dialy_remind">التنبيه اليومية</string>
+<string name="dialy_remind_text">تنبيه في %s والنصف صباحا </string>
+<string name="help">مساعدات</string>
+<string name="upgrate_version">تحديث البرامج</string>
+<string name="reset_password">تغيير كلمة المرور</string>
+<string name="login_out">خروج</string>
+<string name="change_thumb">تغيير الصورة</string>
+<string name="take_photo">حصول عليها بأخذ الصورة </string>
+<string name="select_from_album">حصول عليها من الألبومات</string>
+<string name="confirm_thumb">تتأكد من استخدام هذه الصورة الشخصية؟</string>
+<string name="confirm">تأكيد </string>
+<string name="cancel">إلغاء </string>
+<string name="account_init_password">كلمة المرور الأصلية</string>
+<string name="new_passwod">كلمة المرور الجديدة</string>
+<string name="new_confirm_password">تأكيد من كلمة المرور الجديدة</string>
+<string name="schedule_item_tips">تنبيه قبل %d دقيقة </string>
+<string name="is_locating">الحصول على موقف</string>
+<string name="upload_waiting">التحقق من</string>
+<string name="shake_tips">اهتز للبحث عن توصية الأحداث</string>
+<string name="push_title">خبر مدفوع</string>
+<string name="scan">تفاصيل</string>
+<string name="click_play">مشاهدة دعاوة CEP </string>
+<string name="first_tips">ضافة " جدول السباق " و" أنشطة CEP " </string>
+<string name="score_title">يرجي إعطاء الدرجة بأشكال النجوم</string>
+<string name="submit">تقديم الدرجة</string>
+<string name="loginout_success">خروج النجاح</string>
+<string name="delete_schdule">ما إذا كان حذف </string>
+<string name="signin_in_failed">التسجيل فاشل، يرجي المحاولة مرة أخري. </string>
+<string name="watch_success">نجاح</string>
+<string name="watch_failed">فشل</string>
+<string name="get_medal">حصول علي الشارة</string>
+<string name="cep_socre1">التقييم الإجمالي</string>
+<string name="cep_socre2">مستوي التنظيم</string>
+<string name="cep_socre3">الحصاد الفردي</string>
+<string name="weibo_secc">نجاح</string>
+<string name="weibo_err">فشل</string>
+<string name="alarm_title">ذكر</string>
+<string name="update_no_need">هذا هو أحدث إصدار!</string>
+<string-array name="time_before_array">
+	<item>تنبيه قبل 30 دقيقة </item>
+	<item>تنبيه قبل 60 دقيقة </item>
+	<item>تنبيه قبل 120 دقيقة </item>
+</string-array>
+<string-array name="time_daily_array">
+	<item>تنبيه6:30</item>
+	<item>تنبيه9:00</item>
+	<item>تنبيه12:00</item>
+</string-array>
+<string name="game_detail_info_empty">انتهت السباقة</string>
+<string name="empty_box_text">لا مزيد من الأشياء في حاجة إلي المشاهدة اليوم </string>
+<string name="cancel_attention">تأكيد حذف؟</string>
+<string name="cep_menu_title">أنشطةCEP</string>
+<string name="cep_score_failed">إعطاء الدرجة فاشل، يرجي المحاولة مرة أخري. </string>
+<string name="change_error">فشل</string>
+<string name="help_center">مركز المعلومات</string>
+</resources>

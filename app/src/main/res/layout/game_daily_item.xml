@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content" 
+    android:orientation="vertical">
+	<TextView
+	    android:id="@+id/date"
+	    android:layout_width="wrap_content"
+    	android:layout_height="wrap_content"
+    	android:layout_margin="10dp"
+    	android:layout_marginLeft="10dp"
+    	android:textColor="@color/game_daily_date"
+    	android:textStyle="bold"
+    	android:textSize="15sp">
+	</TextView>
+	<RelativeLayout 
+	    android:id="@+id/daily_item"
+	    android:layout_width="match_parent"
+    	android:layout_height="wrap_content"
+    	android:layout_marginLeft="15dp"
+    	android:layout_marginRight="15dp"
+    	android:layout_marginBottom="15dp"
+    	android:layout_marginTop="8dp"
+    	android:background="@android:color/white">
+	    <CheckBox 
+	        android:id="@+id/game_add_btn"
+	        android:layout_width="wrap_content"
+    		android:layout_height="wrap_content"
+    		android:layout_alignParentRight="true"
+    		android:layout_marginRight="15dp"
+    		android:layout_centerVertical="true"
+    		android:button="@drawable/game_daily_checkbox"/>
+	    
+	    <TextView 
+	        android:id="@+id/game_title"
+	        android:layout_width="wrap_content"
+    		android:layout_height="wrap_content"
+    		android:layout_alignParentLeft="true"
+    		android:layout_toLeftOf="@+id/game_add_btn"
+    		android:textColor="@color/game_daily_title"
+    		android:maxLines="2"
+    		android:layout_marginTop="15dp"
+    		android:layout_marginLeft="15dp"
+    		android:textSize="15sp"/>
+	    
+	    <ImageView
+	        android:id="@+id/game_loc_icon"
+	        android:layout_width="wrap_content"
+    		android:layout_height="wrap_content"
+    		android:layout_marginLeft="15dp"
+    		android:layout_marginTop="10dp"
+    		android:layout_marginRight="5dp"
+    		android:src="@drawable/game_daily_loc"
+    		android:layout_below="@+id/game_title"/>
+	        
+	    <TextView 
+	        android:id="@+id/game_loc"
+	        android:layout_width="wrap_content"
+    		android:layout_height="wrap_content"
+    		android:layout_below="@+id/game_title"
+    		android:layout_toRightOf="@+id/game_loc_icon"
+    		android:layout_toLeftOf="@+id/game_add_btn"
+    		android:layout_marginTop="10dp"
+    		android:textColor="@color/game_daily_loc"
+    		android:maxLines="2"
+    		android:textSize="13sp"/>
+	    
+	    <View 
+	        android:layout_below="@+id/game_loc_icon"
+	        android:layout_width="1dp"
+    		android:layout_height="15dp"/>	    
+	    
+	</RelativeLayout>
+</LinearLayout>

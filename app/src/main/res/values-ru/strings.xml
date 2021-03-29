@@ -1,0 +1,102 @@
+<resources>
+<string name="app_name">AYG помощник</string>
+<string name="left_menu_setting">установка</string>
+<string name="login_title">логин</string>
+<string name="login_hint_username">введите ID спортсмена</string>
+<string name="login_hint_pwd">введите последние 6 цифр паспорта</string>
+<string name="login_dologin">логин</string>
+<string name="login_name">счет</string>
+<string name="login_pwd">пароль</string>
+<string name="name_or_pwd_isempty">имя потребителя или пароль пустое</string>
+<string name="pro_exit_cofirm">"Нажмите еще раз</string>
+<string name="login_failed">провал</string>
+<string name="menu_left_home">главная</string>
+<string name="menu_left_schedule">расписание соревнования</string>
+<string name="menu_left_equip">периферийный поиск</string>
+<string name="notify">уведомление</string>
+<string name="activity">мой CEP</string>
+<string name="delete">удалять</string>
+<string name="net_exception">аномальная сеть</string>
+<string name="order_attend">внимание</string>
+<string name="sign_in">регистрация</string>
+<string name="dialog_title">побуждать</string>
+<string name="dialog_msg">загрузка</string>
+<string name="no_sd_card">не обнаружить карточку SD</string>
+<string name="islogining">загрузка</string>
+<string name="opengps">откройте GPS</string>
+<string name="sat">Sat</string>
+<string name="mon">Mon</string>
+<string name="tue">Tue</string>
+<string name="wed">Wed</string>
+<string name="thu">Thu</string>
+<string name="fri">Fri</string>
+<string name="sun">Sun</string>
+<string name="badge">BADAGE</string>
+<string name="base_information">основные информации</string>
+<string name="country">гражданство</string>
+<string name="gender">пол</string>
+<string name="attend_items">мое соревнование</string>
+<string name="cep_video">агитфильм CEP</string>
+<string name="schedule_my_project">мое соревнование</string>
+<string name="schedule_other_project">другие соревнования</string>
+<string name="make_socre">оценить</string>
+<string name="event_tips">напоминание о событии</string>
+<string name="event_remind_text">напоминать %dмин. раньше</string>
+<string name="dialy_remind">ежедневное напоминание</string>
+<string name="dialy_remind_text">напоминание %s</string>
+<string name="help">помощь</string>
+<string name="upgrate_version">обновление программного обеспечения</string>
+<string name="reset_password">изменить пароль</string>
+<string name="login_out">выйти</string>
+<string name="change_thumb">изменить скульптуру головы</string>
+<string name="take_photo">получить фотографированием</string>
+<string name="select_from_album">получить из альбома</string>
+<string name="confirm_thumb">подтверждите использовать этот аватар?</string>
+<string name="confirm">утвердить</string>
+<string name="cancel">отменить</string>
+<string name="account_init_password">исходный пароль</string>
+<string name="new_passwod">новый пароль</string>
+<string name="new_confirm_password">утвердить</string>
+<string name="schedule_item_tips">напоминать %dмин. раньше</string>
+<string name="is_locating">Получение позиции</string>
+<string name="upload_waiting">проверка</string>
+<string name="shake_tips">встряхнуть на поиск рекомендуемых деятельностей </string>
+<string name="push_title">рекомендуемые сообщения</string>
+<string name="scan">подробности</string>
+<string name="click_play">посмотреть агитфильм CEP</string>
+<string name="first_tips">нажать шпонку "запросить/добавить" можно запросить и добавить "расписание соревнования", "деятельность CEP"</string>
+<string name="score_title">оценить</string>
+<string name="submit">подавать</string>
+<string name="loginout_success">успех</string>
+<string name="delete_schdule">удалять</string>
+<string name="signin_in_failed">не удачно расписаться в прибытии,  попробуете еще раз.</string>
+<string name="number">NO.</string>
+<string name="watch_success">успех</string>
+<string name="watch_failed">провал</string>
+<string name="get_medal">получить значок</string>
+<string name="OK">OK !</string>
+<string name="cep_socre1">общая оценка</string>
+<string name="cep_socre2">уровень организации</string>
+<string name="cep_socre3">личные достижения</string>
+<string name="weibo_secc">успех</string>
+<string name="weibo_err">провал</string>
+<string name="alarm_title">напоминать утра</string>
+<string name="update_no_need">Это последнюю версию!</string>
+<string-array name="time_before_array">
+	<item>напоминать 30мин. раньше</item>
+	<item>напоминать 60мин. раньше</item>
+	<item>напоминать 120мин. раньше</item>
+</string-array>
+<string-array name="time_daily_array">
+	<item>6:30</item>
+	<item>9:00</item>
+	<item>12:00</item>
+</string-array>
+<string name="game_detail_info_empty">соревнование закончено</string>
+<string name="empty_box_text">сегодняшние события для посмотрения пока больше нет </string>
+<string name="cancel_attention">удалять</string>
+<string name="cep_menu_title">деятельность CEP</string>
+<string name="cep_score_failed">не удачно оценить, попробуете еще раз.</string>
+<string name="change_error">провал</string>
+<string name="help_center">Информационный центр</string>
+</resources>

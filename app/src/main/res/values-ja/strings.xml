@@ -1,0 +1,110 @@
+<resources>
+    <string name="app_name">AYG助手</string>
+    <string name="left_menu_setting">設定</string>
+    <string name="login_title">登録</string>
+    <string name="login_hint_username">選手IDを入力</string>
+    <string name="login_hint_pwd">旅券の末尾6桁数字を入力</string>
+    <string name="login_dologin">登録</string>
+    <string name="login_name">アカウント番号</string>
+    <string name="login_pwd">パスワード</string>
+    <string name="name_or_pwd_isempty">ユーザー名又はパスワードが空</string>
+    <string name="pro_exit_cofirm">終了するには、もう一度押すと</string>
+    <string name="login_failed">登録に失敗</string>
+    <string name="menu_left_home">ホーム</string>
+    <string name="menu_left_schedule">試合日程</string>
+    <string name="menu_left_equip">周辺確認</string>
+    <string name="notify">通知</string>
+    <string name="activity">私のCEP</string>
+    <string name="delete">削除</string>
+    <string name="net_exception">ネットワーク異常</string>
+    <string name="order_attend">注目</string>
+    <string name="sign_in">サインアップ</string>
+    <string name="dialog_title">プロンプト</string>
+    <string name="dialog_msg">積載</string>
+    <string name="no_sd_card">二次元コードをスキャン</string>
+    <string name="islogining">積載</string>
+    <string name="opengps">GPSを開けて下さい</string>
+    <string name="sat">Sat</string>
+    <string name="mon">Mon</string>
+    <string name="tue">Tue</string>
+    <string name="wed">Wed</string>
+    <string name="thu">Thu</string>
+    <string name="fri">Fri</string>
+    <string name="sun">Sun</string>
+    <string name="badge">BADAGE</string>
+    <string name="base_information">基本的情報</string>
+    <string name="country">国籍</string>
+    <string name="gender">性別</string>
+    <string name="attend_items">私の試合</string>
+    <string name="cep_video">CEP宣伝映画を閲覧</string>
+    <string name="schedule_my_project">私の試合</string>
+    <string name="schedule_other_project">その他試合</string>
+	<string name="make_socre">採点</string>
+	<string name="event_tips">リマインド</string>
+	<string name="event_remind_text">%d分前にリマインド</string>
+	<string name="dialy_remind">行事リマインド</string>	
+	<string name="dialy_remind_text">%sリマインド</string>
+	<string name="help">ヘルプ</string>
+	<string name="upgrate_version">ソフトウェアの更新</string>
+	<string name="reset_password">パスワードを修正</string>
+	<string name="login_out">ログアウト</string>
+	<string name="change_thumb">アバターを修正</string>
+	<string name="take_photo">写真取得</string>
+	<string name="select_from_album">アルバムから取得</string>
+	<string name="confirm_thumb">このアバターの使用を確認しますか？ </string>
+	<string name="confirm">確認</string>
+	<string name="cancel">キャンセル</string>
+	<string name="account_init_password">初期パスワード</string>
+	<string name="new_passwod">新規パスワード</string>
+	<string name="new_confirm_password">新規パスワード確認</string>
+	<string name="schedule_item_tips">%d分前にリマインド</string>
+	<string name="is_locating">位置を取得...</string>
+	<string name="upload_waiting">検証...</string>
+	<string name="shake_tips">振ってみようイベント推奨</string>
+	<string name="push_title">キャンベーン情報</string>
+	<string name="scan">詳細情報</string>
+	<string name="weibo_send">Send</string>
+	<string name="click_play">CEP宣伝映画を閲覧</string>
+	<string name="first_tips">「照会/添加」ボタンをクリックすれば、「試合日程」、「CEPイベント」を照会/添加できる</string>
+	<string name="score_title">星形を押して採点して下さい</string>
+	<string name="submit">採点を提出</string>
+	<string name="loginout_success">成功で終了</string>
+	<string name="delete_schdule">削除を確認？</string>
+	<string name="signin_in_failed">サインアップにに失敗し、再度試して下さい。</string>
+	<string name="number">NO.</string>
+	<string name="watch_success">成功</string>
+	<string name="watch_failed">失敗</string>
+	<string name="get_medal">バッジを取得</string>
+	<string name="OK">OK !</string>
+	<string name="cep_socre1">評価全般</string>
+	<string name="cep_socre2">組織レベル</string>
+	<string name="cep_socre3">個人的な収穫</string>	
+	<string name="weibo01">I am participating in the "Youth Festival" (2nd Asian Youth Games).</string>
+	<string name="weibo02">I am participating in the "Asian Culture Village" (2nd Asian Youth Games).</string>
+	<string name="weibo03">I am participating in the "Global Issues" (2nd Asian Youth Games).</string>
+	<string name="weibo04">I am participating in the "Eco-friendly Agriculture" (2nd Asian Youth Games).</string>
+	<string name="weibo05">I am participating in the "Nanjing Historical and Cultural Sightseeing" (2nd Asian Youth Games).</string>
+	<string name="weibo_sending">Sending...</string>
+	<string name="weibo_secc">成功</string>
+	<string name="weibo_err">失敗</string>
+	<string name="alarm_title">リマインド</string>
+	<string name="update_no_need">それは最新版です！</string>
+	
+	<string-array name="time_before_array">
+	    <item>30分前にリマインド</item>
+	    <item>60分前にリマインド</item>
+	    <item>120分前にリマインド</item>
+	</string-array>
+	<string-array name="time_daily_array">
+	    <item>6:30</item>
+	    <item>9:00</item>
+	    <item>12:00</item>
+	</string-array>
+	<string name="game_detail_info_empty">試合終了済み.</string>
+	<string name="empty_box_text">今日は閲覧すべき事項無し</string>
+	<string name="cancel_attention">削除を確認？</string>
+	<string name="cep_menu_title">CEPイベント</string>
+	<string name="cep_score_failed">採点に失敗し、再度試して下さい。</string>
+	<string name="change_error">失敗</string>
+	<string name="help_center">情報センター</string>
+</resources>

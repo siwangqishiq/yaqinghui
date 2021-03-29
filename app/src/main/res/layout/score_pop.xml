@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/popMain"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#F0EBE7"
+    android:padding="5dp" >
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_centerInParent="true"
+        android:background="#F0EBE7"
+        android:orientation="vertical" >
+
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="10dp"
+            android:gravity="center"
+            android:text="@string/score_title"
+            android:textColor="#797979"
+            android:textSize="20dp" />
+
+        <View
+            android:layout_width="fill_parent"
+            android:layout_height="4px"
+            android:layout_margin="5dp"
+            android:background="@drawable/shader_line" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:layout_marginTop="5dp"
+            android:text="@string/cep_socre1"
+            android:textSize="20dp" />
+
+        <RatingBar
+            android:id="@+id/score1"
+            style="@style/myratingbar"
+            android:stepSize="1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:numStars="5" >
+        </RatingBar>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:text="@string/cep_socre2"
+            android:textSize="20dp" />
+
+        <RatingBar
+            android:id="@+id/score2"
+            android:stepSize="1"
+            style="@style/myratingbar"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:numStars="5" >
+        </RatingBar>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:text="@string/cep_socre3"
+            android:textSize="20dp" />
+
+        <RatingBar
+            android:id="@+id/score3"
+            android:stepSize="1"
+            style="@style/myratingbar"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:numStars="5" >
+        </RatingBar>
+
+        <Button
+            android:id="@+id/submit"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="10dp"
+            android:textColor="#FFFFFF"
+            android:background="@drawable/prepost_bg"
+            android:text="@string/submit" />
+    </LinearLayout>
+
+</RelativeLayout>

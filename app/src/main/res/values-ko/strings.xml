@@ -1,0 +1,110 @@
+<resources>
+    <string name="app_name">AYG조수</string>
+    <string name="left_menu_setting">설정</string>
+    <string name="login_title">로그인</string>
+    <string name="login_hint_username">경기 참가자 ID입력하기</string>
+    <string name="login_hint_pwd">여권에서 뒤로 6자리 숫자 입력</string>
+    <string name="login_dologin">로그인</string>
+    <string name="login_name">계좌번호</string>
+    <string name="login_pwd">비밀번호</string>
+    <string name="name_or_pwd_isempty">사용자명 또는 비밀번호가 입력되지 않았습니다.</string>
+    <string name="pro_exit_cofirm">종료하려면 다시 누릅니다</string>
+    <string name="login_failed">로그인 실패</string>
+    <string name="menu_left_home">홈페이지</string>
+    <string name="menu_left_schedule">시합일정</string>
+    <string name="menu_left_equip">주변 조회</string>
+    <string name="notify">통보</string>
+    <string name="activity">마이 CEP</string>
+    <string name="delete">삭제</string>
+    <string name="net_exception">네트워크 이상</string>
+    <string name="order_attend">주의</string>
+    <string name="sign_in">로그인</string>
+    <string name="dialog_title">프롬프트</string>
+    <string name="dialog_msg">로드</string>
+    <string name="no_sd_card">2차원코드 스캐닝</string>
+    <string name="islogining">로드</string>
+    <string name="opengps">GPS를 오픈하십시오.</string>
+    <string name="sat">Sat</string>
+    <string name="mon">Mon</string>
+    <string name="tue">Tue</string>
+    <string name="wed">Wed</string>
+    <string name="thu">Thu</string>
+    <string name="fri">Fri</string>
+    <string name="sun">Sun</string>
+    <string name="badge">BADAGE</string>
+    <string name="base_information">기본정보</string>
+    <string name="country">국적</string>
+    <string name="gender">성별</string>
+    <string name="attend_items">마이 시합일정</string>
+    <string name="cep_video">CEP홍보영상 보기</string>
+    <string name="schedule_my_project">마이 시합일정</string>
+    <string name="schedule_other_project">기타 시합일정</string>
+	<string name="make_socre">평점</string>
+	<string name="event_tips">사항 리마인드</string>
+	<string name="event_remind_text">%d분전 리마인드</string>
+	<string name="dialy_remind">일일 리마인드</string>	
+	<string name="dialy_remind_text">%s 리마인드</string>
+	<string name="help">도움</string>
+	<string name="upgrate_version">소프트웨어 업데이트</string>
+	<string name="reset_password">비밀번호 수정</string>
+	<string name="login_out">로그아웃</string>
+	<string name="change_thumb">이모티콘 수정</string>
+	<string name="take_photo">사진을 찍어 받기</string>
+	<string name="select_from_album">앨범 접속하여 받기</string>
+	<string name="confirm_thumb">해당 이모티콘을 사용하겠습니까? </string>
+	<string name="confirm">확인</string>
+	<string name="cancel">취소</string>
+	<string name="account_init_password">초기 비밀번호</string>
+	<string name="new_passwod">새로운 비밀번호</string>
+	<string name="new_confirm_password">새로운 비밀번호 확인</string>
+	<string name="schedule_item_tips">%d분전 리마인드</string>
+	<string name="is_locating">위치를 얻을</string>
+	<string name="upload_waiting">확인</string>
+	<string name="shake_tips">흔들어서 이벤트 추천을 찾아보세요.</string>
+	<string name="push_title">푸쉬 메시지</string>
+	<string name="scan">자세한 정보</string>
+	<string name="weibo_send">Send</string>
+	<string name="click_play">CEP홍보영상 보기</string>
+	<string name="first_tips">"조회/추가"버튼을 클릭하면 즉시로 "시합일정", "CEP"를 조회, 추가 가능합니다</string>
+	<string name="score_title">별 모양을 눌러 평점하십시오.</string>
+	<string name="submit">평점 제출</string>
+	<string name="loginout_success">성공 종료</string>
+	<string name="delete_schdule">삭제를 확인합니다?</string>
+	<string name="signin_in_failed">로그인 실패, 재시도하시기 바랍니다.</string>
+	<string name="number">NO.</string>
+	<string name="watch_success">성공</string>
+	<string name="watch_failed">실패</string>
+	<string name="get_medal">휘장 획득</string>
+	<string name="OK">OK !</string>
+	<string name="cep_socre1">전반적 평가</string>
+	<string name="cep_socre2">조직수준</string>
+	<string name="cep_socre3">개인소득</string>	
+	<string name="weibo01">I am participating in the "Youth Festival" (2nd Asian Youth Games).</string>
+	<string name="weibo02">I am participating in the "Asian Culture Village" (2nd Asian Youth Games).</string>
+	<string name="weibo03">I am participating in the "Global Issues" (2nd Asian Youth Games).</string>
+	<string name="weibo04">I am participating in the "Eco-friendly Agriculture" (2nd Asian Youth Games).</string>
+	<string name="weibo05">I am participating in the "Nanjing Historical and Cultural Sightseeing" (2nd Asian Youth Games).</string>
+	<string name="weibo_sending">Sending...</string>
+	<string name="weibo_secc">성공</string>
+	<string name="weibo_err">실패</string>
+	<string name="alarm_title">리마인드</string>
+	<string name="update_no_need">최신 버전은 이미!</string>
+	
+	<string-array name="time_before_array">
+	    <item>30분전 리마인드</item>
+	    <item>60분전 리마인드</item>
+	    <item>120분전 리마인드</item>
+	</string-array>
+	<string-array name="time_daily_array">
+	    <item>6:30</item>
+	    <item>9:00</item>
+	    <item>12:00</item>
+	</string-array>
+	<string name="game_detail_info_empty">시합이 이미 끝났습니다.</string>
+	<string name="empty_box_text">오늘은 조회해야 할 더욱 많은 사항이 잠시 없습니다.</string>
+	<string name="cancel_attention">삭제를 확인합니다?</string>
+	<string name="cep_menu_title">CEP이벤트</string>
+	<string name="cep_score_failed">평점 실패, 재시도하시기 바랍니다. </string>
+	<string name="change_error">실패</string>
+	<string name="help_center">정보 센터</string>
+</resources>
